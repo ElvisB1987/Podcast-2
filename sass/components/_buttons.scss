@@ -1,0 +1,28 @@
+form{
+    display: flex;
+    justify-content: space-between;
+    width: 428px;
+    height: 56px;
+    border-radius: 25px;
+    background-color: $color-teget-blau-light;
+    padding: 5px;
+}
+
+input{
+    background-color: $color-teget-blau-light;
+    border: 0ch;
+    padding: 5px;
+    border-radius: 25px;
+    color: $color-white;
+}
+
+#button {
+    background-color: $color-primary-green;
+    border-radius: 20px;
+    width: 142px;
+    color: $color-teget-blau-dark;
+}
+
+#button:hover{
+    background-color: #B3FFE2;
+}

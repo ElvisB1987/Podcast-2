@@ -1,0 +1,18 @@
+.container {
+  background-color: $color-teget-blau-dark;
+  display: flex;
+  height: 100vh;
+  overflow: hidden;
+  justify-content: right;
+  align-items: center;
+  color: $color-white;
+}
+.card {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-content: center;
+  align-items: flex-end;
+  column-gap: 210px;
+
+}

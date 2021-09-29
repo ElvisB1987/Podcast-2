@@ -1,0 +1,23 @@
+h1{
+    font-size: 52px;
+    line-height: 62px;
+    color: $color-primary-green;
+    font-weight: 300;
+    text-transform: uppercase;
+}
+span{
+    color: $color-white;
+}
+
+p {
+    font-size: 18px;
+    line-height: 28px;
+    color:$color-himel-blau-light ;
+    max-width: 445px;
+}
+
+.atention {
+    color: red;
+    position: absolute;
+    margin-top: 56px;
+}
